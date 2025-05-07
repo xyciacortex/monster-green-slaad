@@ -1,0 +1,14 @@
+openapi: 3.0.1
+info:
+  title: monster-green-slaad
+  x-cortex-tag: monster-green-slaad
+x-cortex-custom-data:
+  alignment: chaotic-neutral
+  challenge_rating: 8
+  legendary: true
+  source: dnd-5e
+  type: aberration
+x-cortex-owners:
+- email: bestiary@dnd.com
+x-cortex-tag: monster-green-slaad
+x-cortex-type: monster
